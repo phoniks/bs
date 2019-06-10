@@ -1,0 +1,11 @@
+{
+    "@context": "https://wsid.org/git-method/v1",
+    "id": "did:git:$repo-id",
+    "service": [{
+      "type": "git",
+      "serviceEndpoint": "https://github.com/phoniks/bs.git"
+      }],
+    "authentication": [
+        "did:git:$repo-id",
+    ]
+  }
