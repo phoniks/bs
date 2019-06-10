@@ -1,11 +1,11 @@
 {
     "@context": "https://wsid.org/git-method/v1",
-    "id": "did:git:$repo-id",
+    "id": "did:git:9ee479233723530fa6dd856aae1684a5e92d7f2c",
     "service": [{
       "type": "git",
       "serviceEndpoint": "https://github.com/phoniks/bs.git"
       }],
     "authentication": [
-        "did:git:$repo-id",
+        "did:git:9ee479233723530fa6dd856aae1684a5e92d7f2c:b4fb920e5dd22077306f84db1c8779f8729619b8"
     ]
   }
