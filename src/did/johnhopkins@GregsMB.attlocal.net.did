@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/git-method/v1",
+  "id": "did:git:9ee479233723530fa6dd856aae1684a5e92d7f2c:b4fb920e5dd22077306f84db1c8779f8729619b8", 
+  "publicKey": [{
+    "id": "did:git:9ee479233723530fa6dd856aae1684a5e92d7f2c:b4fb920e5dd22077306f84db1c8779f8729619b8#1",
+    "type": "Ed25519VerificationKey2018",
+    "publicKeyBase58": "31QWkPyM6Uk3Q6ib8CBtnFbhz49z13XJdSzaXceWGoKq7sTprWpUyvpfKiwCvXu9qNbUtZ2qvAbfcbr8pHrnb5Vz"
+  }]
+}
